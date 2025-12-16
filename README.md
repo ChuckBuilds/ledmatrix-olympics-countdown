@@ -2,6 +2,11 @@
 
 A LEDMatrix plugin that displays a countdown to the next Olympics (summer or winter) with an Olympics logo. Once the Olympics starts, it automatically switches to countdown to the closing ceremony.
 
+Screenshot Preview:
+
+<img width="512" height="128" alt="led_matrix_1765854815412" src="https://github.com/user-attachments/assets/a73e6c3c-97e2-412d-8ea3-6a35d301040c" />
+
+
 ## Features
 
 - **Automatic Olympics Detection**: Automatically determines the next Olympics (summer or winter)
