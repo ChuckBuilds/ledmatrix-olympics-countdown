@@ -1,0 +1,34 @@
+{
+  "id": "olympics-countdown",
+  "name": "Olympics Countdown",
+  "version": "1.0.0",
+  "author": "ChuckBuilds",
+  "description": "Display a countdown to the next Olympics (summer or winter) with an Olympics logo. Once the Olympics starts, countdown to the closing ceremony.",
+  "category": "sports",
+  "tags": [
+    "olympics",
+    "countdown",
+    "sports",
+    "summer",
+    "winter"
+  ],
+  "entry_point": "manager.py",
+  "class_name": "OlympicsCountdownPlugin",
+  "display_modes": [
+    "olympics-countdown"
+  ],
+  "download_url_template": "https://github.com/ChuckBuilds/ledmatrix-olympics-countdown/archive/refs/tags/v{version}.zip",
+  "versions": [
+    {
+      "released": "2025-01-27",
+      "version": "1.0.0",
+      "ledmatrix_min": "2.0.0"
+    }
+  ],
+  "last_updated": "2025-01-27",
+  "stars": 0,
+  "downloads": 0,
+  "verified": true,
+  "screenshot": ""
+}
+

@@ -1,0 +1,7 @@
+# Olympics Countdown Plugin Requirements
+# 
+# This plugin uses only standard library modules and PIL/Pillow
+# which is already provided by LEDMatrix core.
+#
+# No additional dependencies required.
+
